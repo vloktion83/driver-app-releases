@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "ru.agro.rst.driver",
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "publishedAt": "2026-08-10T16:42:38Z",
-  "apkUrl": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.2/optiroute-driver-0.1.2.apk",
-  "sha256Url": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.2/optiroute-driver-0.1.2.apk.sha256",
-  "changelogUrl": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.2/CHANGELOG-RU.md",
-  "releasePageUrl": "https://github.com/vloktion83/driver-app-releases/releases/tag/android-v0.1.2"
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "publishedAt": "2026-08-17T18:07:13Z",
+  "apkUrl": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.3/optiroute-driver-0.1.3.apk",
+  "sha256Url": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.3/optiroute-driver-0.1.3.apk.sha256",
+  "changelogUrl": "https://github.com/vloktion83/driver-app-releases/releases/download/android-v0.1.3/CHANGELOG-RU.md",
+  "releasePageUrl": "https://github.com/vloktion83/driver-app-releases/releases/tag/android-v0.1.3"
 }
